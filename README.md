@@ -1,5 +1,3 @@
-# Getting Started with Create React App
-
 # Online Kino Arena
 Online Kino Arena is a movie ticket booking website created with React. It allows users to browse and buy tickets for various movies, leave comments as reviews, and explore movie details through the about page.
 
