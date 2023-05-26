@@ -51,7 +51,7 @@ Contributions to the Online Kino Arena project are welcome. Here's how you can c
 
 # License
 
-This project is licensed under the 'MIT License'.
+This project is licensed under the '### MIT License'.
                                    
 
 # Acknowledgements
