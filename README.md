@@ -17,23 +17,23 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Installation
 
-1.Clone the repository:
+1. Clone the repository:
 
 ### `git clone <repository_url>`
 
-2.Navigate to the project directory:
+2. Navigate to the project directory:
 
 ### `cd my-app`
 
-3.Install the dependencies:
+3. Install the dependencies:
 
 ## Usage
 
-1.Start the development server:
+1. Start the development server:
 
 ### `npm start`
 
-2.Open your browser and visit http://localhost:3000 to access the Online Kino Arena website.
+2. Open your browser and visit http://localhost:3000 to access the Online Kino Arena website.
 
 
 ## Screenshots
@@ -43,11 +43,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Contributions to the Online Kino Arena project are welcome. Here's how you can contribute:
 
-1.Fork the repository.
-2.Create a new branch: git checkout -b feature/your-feature.
-3.Make your changes and commit them: git commit -m 'Add your feature'.
-4.Push to the branch: git push origin feature/your-feature.
-5.Open a pull request.
+1. Fork the repository.
+2. Create a new branch: git checkout -b feature/your-feature.
+3. Make your changes and commit them: git commit -m 'Add your feature'.
+4. Push to the branch: git push origin feature/your-feature.
+5. Open a pull request.
 
 ## License
 
