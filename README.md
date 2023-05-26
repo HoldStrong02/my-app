@@ -15,31 +15,48 @@ Online Kino Arena is a movie ticket booking website created with React. It allow
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Installation
 
-In the project directory, you can run:
+1.Clone the repository:
+
+### `git clone <repository_url>`
+
+2.Navigate to the project directory:
+
+### `cd my-app`
+
+3.Install the dependencies:
+
+## Usage
+
+1.Start the development server:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2.Open your browser and visit http://localhost:3000 to access the Online Kino Arena website.
 
 
-###
+## Screenshots
+
+
+## Contributing
+
+Contributions to the Online Kino Arena project are welcome. Here's how you can contribute:
+
+1.Fork the repository.
+2.Create a new branch: git checkout -b feature/your-feature.
+3.Make your changes and commit them: git commit -m 'Add your feature'.
+4.Push to the branch: git push origin feature/your-feature.
+5.Open a pull request.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Acknowledgements
+
+Special thanks to the following sponsors for supporting the Online Kino Arena website:
+
+* Sponsor 1
+* Sponsor 2
 
