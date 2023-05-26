@@ -8,7 +8,7 @@ Online Kino Arena is a movie ticket booking website created with React. It allow
 * Explore movie details and descriptions
 * View website sponsors
 
-#Technologies Used
+# Technologies Used
 * React
 * HTML
 * CSS
